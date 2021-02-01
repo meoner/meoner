@@ -1,4 +1,7 @@
 ### Hi there, I'm Mehmet. 👋
+
+I'm a software developer. I am developing myself in web and mobile tech.
+
 - 🔭 I’m currently working on React.
 - 💬 Ask me about javascript or React Native, I hope i can help you :)
 
