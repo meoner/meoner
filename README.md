@@ -2,7 +2,7 @@
 
 I'm a software developer. I am developing myself in web and mobile tech.
 
-- 🔭 I’m currently working on React.
+- 🔭 I’m currently working on React Native.
 - 💬 Ask me about javascript or React Native, I hope i can help you :)
 
 
